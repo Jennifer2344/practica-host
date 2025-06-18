@@ -1,0 +1,51 @@
+Body {
+  Margin: 0;
+  Font-family: 'Arial', sans-serif;
+  Background: linear-gradient(to right, #fefcea, #f1da36);
+  Color: #2d2d2d;
+}
+
+Header {
+  Background-color: #222;
+  Color: white;
+  Padding: 2rem;
+  Text-align: center;
+}
+
+Section {
+  Max-width: 900px;
+  Margin: auto;
+  Padding: 2rem;
+}
+
+H2 {
+  Color: #d35400;
+}
+
+.card {
+  Background-color: #fffef2;
+  Padding: 1.5rem;
+  Border-left: 8px solid #f39c12;
+  Border-radius: 8px;
+  Margin-bottom: 2rem;
+  Box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+Footer {
+  Background-color: #222;
+  Color: white;
+  Text-align: center;
+  Padding: 1rem;
+  Font-size: 0.9rem;
+}
+
+A {
+  Color: #d35400;
+  Font-weight: bold;
+  Text-decoration: none;
+}
+
+A:hover {
+  Text-decoration: underline;
+}
+
